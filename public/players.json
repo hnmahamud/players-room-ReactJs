@@ -1,0 +1,164 @@
+[
+  {
+    "id": "6423faae39ceb6083a0027c6",
+    "name": "Shakib Al Hasan",
+    "age": 36,
+    "price": 3014,
+    "job": "All Rounder",
+    "picture": "https://static.toiimg.com/photo/msid-79258491/79258491.jpg",
+    "about": "Shakib Al Hasan is a Bangladeshi cricketer and current captain of the Bangladesh national cricket team."
+  },
+  {
+    "id": "6423faaed4e770768f0055dc",
+    "name": "Virat Kohli",
+    "age": 34,
+    "price": 3267,
+    "job": "Batsman",
+    "picture": "https://resources.pulse.icc-cricket.com/photo-resources/2022/12/11/4ea298be-e798-48ba-b9f5-fc6ba267cf61/Kohli-drought.jpg?width=500&height=500",
+    "about": "Virat Kohli is an Indian international cricketer and the former captain of the Indian national cricket team."
+  },
+  {
+    "id": "642414e848197424d7d758bb",
+    "name": "Babar Azam",
+    "age": 28,
+    "price": 1376,
+    "job": "Batsman",
+    "picture": "https://cdn.siasat.com/wp-content/uploads/2021/11/Babar-Azam-1.jpg",
+    "about": "Mohammad Babar Azam is a Pakistani international cricketer and captain of the Pakistan national cricket team."
+  },
+  {
+    "id": "6423faae9c8aa3620643b236",
+    "name": "AB de Villiers",
+    "age": 39,
+    "price": 3849,
+    "job": "Batsman & WC",
+    "picture": "https://i.guim.co.uk/img/media/8bbc11933480cab90eda224189d41d661450b797/374_150_4454_2673/master/4454.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=86ffa706a28f90e4b9e15b45b5af7ff3",
+    "about": "Abraham Benjamin de Villiers is a former South African international cricketer."
+  },
+  {
+    "id": "642414e8b25f25ee408cc94d",
+    "name": "Mustafizur Rahman",
+    "age": 27,
+    "price": 3507,
+    "job": "Bowler",
+    "picture": "https://resources.pulse.icc-cricket.com/ICC/photo/2018/08/30/6cfaf051-d59b-487c-a608-ed09484f052e/Mustafizur-Rahman.jpg",
+    "about": "Mustafizur Rahman is a Bangladeshi international cricketer. He is a left-arm fast-medium bowler."
+  },
+  {
+    "id": "6423faae3960b4ea3cc47a0e",
+    "name": "Kieron Pollard",
+    "age": 35,
+    "price": 1875,
+    "job": "All Rounder",
+    "picture": "https://c.ndtvimg.com/2022-05/27ro96a_kieron-pollard-bcciipl_625x300_12_May_22.jpg?im=FaceCrop,algorithm=dnn,width=806,height=605",
+    "about": "Kieron Adrian Pollard is a former West Indies cricketer. He has captained the West Indies cricket team in limited overs cricket."
+  },
+  {
+    "id": "6423faae5c85cd12f90ca52f",
+    "name": "Rashid Khan",
+    "age": 24,
+    "price": 1479,
+    "job": "All Rounder",
+    "picture": "https://www.cricket.com.au/~/-/media/News/2023/01/13Rashid.ashx?w=1600",
+    "about": "Rashid Khan Arman is an Afghan international cricketer and captain of the Afghanistan national team in T20I format."
+  },
+  {
+    "id": "642414e81be9cdbb4de206ad",
+    "name": "Taskin Ahmed",
+    "age": 27,
+    "price": 3936,
+    "job": "Bowler",
+    "picture": "https://www.bssnews.net/assets/news_photos/2022/12/06/image-98298-1670325515.jpg",
+    "about": "Taskin Ahmed Tazim is a Bangladeshi cricketer. He is a right-arm fast bowler and a left-handed batsman."
+  },
+  {
+    "id": "6423faaece17e5b4f9be1f06",
+    "name": "Ben Stokes",
+    "age": 31,
+    "price": 1701,
+    "job": "All Rounder",
+    "picture": "https://sportscafe.in/img/es3-gn/articles/Cricket_1/Ben_Stokes_England_vs_South_Africa_2022_England_Cricket.png",
+    "about": "Benjamin Andrew Stokes OBE is an English international cricketer who is the captain of the England Test team."
+  },
+  {
+    "id": "6423faae97956c531e3636c5",
+    "name": "Hardik Pandya",
+    "age": 29,
+    "price": 2110,
+    "job": "All Rounder",
+    "picture": "https://im.rediff.com/cricket/2022/may/11hardik.jpg",
+    "about": "Hardik Himanshu Pandya is an Indian international cricketer who is the current vice-captain of the Indian cricket team in limited overs."
+  },
+  {
+    "id": "6423faaea263719f438b0c9c",
+    "name": "Shaheen Afridi",
+    "age": 22,
+    "price": 2647,
+    "job": "Bowler",
+    "picture": "https://i0.wp.com/battingwithbimal.com/wp-content/uploads/2019/07/291780.jpg?ssl=1",
+    "about": "Shaheen Shah Afridi is a Pakistani professional cricketer who plays as a fast bowler for the Pakistan national cricket team."
+  },
+  {
+    "id": "6423faae94fa997a340315c9",
+    "name": "Devon Conway",
+    "age": 31,
+    "price": 1797,
+    "job": "Batsman & WC",
+    "picture": "https://imagevars.gulfnews.com/2023/01/11/New-Zealand-s-Devon-Conway_185a21385c4_large.jpg",
+    "about": "Devon Philip Conway is a New Zealand cricketer and hard hitter batsman. He usually plays onedown."
+  },
+  {
+    "id": "6423faaedb1a8028c69feae1",
+    "name": "Marcus Stoinis",
+    "age": 33,
+    "price": 1861,
+    "job": "All Rounder",
+    "picture": "https://img.cricketnmore.com/uploads/2023/01/marcus-stoinis-fifty.jpg",
+    "about": "Marcus Peter Stoinis is an Australian all rounder who plays limited overs cricket for the Australian national team."
+  },
+  {
+    "id": "6423faae725d8abb93dad5a8",
+    "name": "Jos Buttler",
+    "age": 32,
+    "price": 1641,
+    "job": "Batsman & WC",
+    "picture": "https://static.independent.co.uk/2023/02/26/12/0b40e66ddb1e0688eecd859bb49dbfaeY29udGVudHNlYXJjaGFwaSwxNjc3NDk3NTQ4-2.69703789.jpg",
+    "about": "Joseph Charles Buttler MBE is an English cricketer who is the captain of the England cricket team in limited overs cricket."
+  },
+  {
+    "id": "6423faae1912d6a360a2d63b",
+    "name": "Glenn Maxwell",
+    "age": 34,
+    "price": 1091,
+    "job": "All Rounder",
+    "picture": "https://resize.indiatvnews.com/en/resize/newbucket/730_-/2022/02/gettyimages-1370288594-1-1644989380.jpg",
+    "about": "Glenn James Maxwell is an Australian professional cricketer and all-rounder who bats right handed and bowl off break."
+  },
+  {
+    "id": "6423faaee054fb48d64205b1",
+    "name": "Jasprit Bumrah",
+    "age": 29,
+    "price": 3132,
+    "job": "Bowler",
+    "picture": "https://sportsburnout.com/wp-content/uploads/2022/09/Indias-best-playing-11-Jasprit-Bumrah.jpg",
+    "about": "Jasprit Jasbirsingh Bumrah is an Indian international cricketer who plays all formats of the game."
+  },
+  {
+    "id": "6423faae8eb9cfc5689205c0",
+    "name": "Rahkeem Cornwall",
+    "age": 30,
+    "price": 1494,
+    "job": "All Rounder",
+    "picture": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202210/RTX7LX1S_1_x.png?VersionId=k4pth_.8FIjO3TI8R5dPwGR1Qyggu2A5",
+    "about": "Rahkeem Rashawn Shane Cornwall is an Antiguan cricketer. A right-arm off-break bowler, Cornwall has played for Leeward Islands cricket team."
+  },
+  {
+    "id": "6423faae17f42fb7790f8468",
+    "name": "Azam Khan",
+    "age": 24,
+    "price": 3372,
+    "job": "Batsman",
+    "picture": "https://circleofcricket.com/post_image/post_image_191a019.jpg",
+    "about": "Azam Khan is a Pakistani cricketer. Known as a power-hitter. His international debut in July 2021."
+  }
+]
