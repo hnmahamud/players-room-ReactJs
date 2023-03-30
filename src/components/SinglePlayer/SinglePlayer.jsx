@@ -20,7 +20,7 @@ const SinglePlayer = ({ singleData, handleSelect }) => {
         <p>Price: ${price}</p>
       </div>
       <div className="card-actions">
-        <button onClick={() => handleSelect(id)} type="button" className="w-full btn btn-xs">
+        <button onClick={() => handleSelect(id)} type="button" className="w-full btn btn-xs rounded-md">
           <span className="mr-2">Select</span>
           {singleData.selected ? <FontAwesomeIcon icon={selectSolid} /> : <FontAwesomeIcon icon={selectRegular} />}
         </button>

@@ -70,7 +70,7 @@ const PlayersRoom = () => {
       }
     }
     setCartData(newCartData);
-  }, [selectAction]);
+  }, [playersData, selectAction]);
 
 
   const handleSelect = (playerId) => {
@@ -108,7 +108,11 @@ const PlayersRoom = () => {
           </div>
         </div>
         <div className="md:col-span-2 border rounded-md">
-          <SideCart cartData={cartData} handleClearAll={handleClearAll} />
+          <SideCart
+            cartData={cartData}
+            handleSelect={handleSelect}
+            handleClearAll={handleClearAll}
+          />
           <ToastContainer />
         </div>
       </div>
